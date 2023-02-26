@@ -1,3 +1,13 @@
+# Update Notice
+This is a fork of the [original image by jlesage](https://github.com/jlesage/docker-nginx-proxy-manager) that was created the original image/repo has sadly yet to updated to Nginx Proxy Manager Version 2.9.19.
+A single, tiny Pull Request to mitigate this has been submitted on the original repo, but strangely not yet been accepted.
+
+As soon as that happens, I will remove this fork and with it the docker images, so if you intend to my update, make sure to subscribe to [this](https://github.com/jlesage/docker-nginx-proxy-manager/pull/270) PR to be notified to the deletion of this fork.
+
+Use at your own risk, I'm not too well versed in docker image creation.
+
+To use, just replace `jlesage` with `Leolele99` in your compose files or similar.
+
 # Docker container for Nginx Proxy Manager
 [![Docker Image Size](https://img.shields.io/microbadger/image-size/jlesage/nginx-proxy-manager)](http://microbadger.com/#/images/jlesage/nginx-proxy-manager) [![Build Status](https://drone.le-sage.com/api/badges/jlesage/docker-nginx-proxy-manager/status.svg)](https://drone.le-sage.com/jlesage/docker-nginx-proxy-manager) [![GitHub Release](https://img.shields.io/github/release/jlesage/docker-nginx-proxy-manager.svg)](https://github.com/jlesage/docker-nginx-proxy-manager/releases/latest) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/JocelynLeSage/0usd)
 
