@@ -1,12 +1,12 @@
 # Update Notice
-The entire reason for this fork is that the original image/repo has sadly yet to updated to Nginx Proxy Manager Version 2.9.19.
+This is a [fork](https://github.com/Leolele99/docker-nginx-proxy-manager) of the [original image by jlesage](https://github.com/jlesage/docker-nginx-proxy-manager) that was created to upate Nginx Proxy Manager, as the original image/repo has sadly yet to be updated to NPM Version 2.9.19.
 A single, tiny Pull Request to mitigate this has been submitted on the original repo, but strangely not yet been accepted.
 
 As soon as that happens, I will remove this fork and with it the docker images, so if you intend to my update, make sure to subscribe to [this](https://github.com/jlesage/docker-nginx-proxy-manager/pull/270) PR to be notified to the deletion of this fork.
 
 Use at your own risk, I'm not too well versed in docker image creation.
 
-To use, just replace `jlesage` with `Leolele99` in your compose files or similar.
+To use, just replace `jlesage` with `leolele99` in your compose files or similar.
 
 # Continued: Old Unchanged Readme (No links or image names have been updated):
 # Docker container for Nginx Proxy Manager
